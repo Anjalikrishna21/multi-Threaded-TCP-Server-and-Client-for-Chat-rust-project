@@ -10,3 +10,17 @@
 - windows
 - All unix like system
 ## SCREENSHOT
+<br>
+<table>
+  <tr>
+   <th>
+      <img src="https://github.com/Anjalikrishna21/multi-Threaded-TCP-Server-and-Client-for-Chat-rust-project/blob/main/screenshot/Capture.JPG">
+   </th>
+  </tr>
+   <tr>
+   <th>
+      <img src="">
+   </th>
+  </tr>
+  
+</table>
